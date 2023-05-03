@@ -1,0 +1,12 @@
+
+.CardDesc{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: larger;
+    font-weight: 700;
+}
+
+.CardDesc img{
+    width: 100%;
+}
